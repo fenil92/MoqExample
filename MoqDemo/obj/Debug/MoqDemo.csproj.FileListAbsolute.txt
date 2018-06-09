@@ -1,0 +1,4 @@
+G:\Videos\Study\Coding practice\MoqDemo\MoqDemo\bin\Debug\MoqDemo.dll
+G:\Videos\Study\Coding practice\MoqDemo\MoqDemo\bin\Debug\MoqDemo.pdb
+G:\Videos\Study\Coding practice\MoqDemo\MoqDemo\obj\Debug\MoqDemo.dll
+G:\Videos\Study\Coding practice\MoqDemo\MoqDemo\obj\Debug\MoqDemo.pdb
